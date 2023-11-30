@@ -16,6 +16,8 @@
     <img src ="https://img.shields.io/badge/AWS-orange.svg?style=flat-square&logo=Amazon AWS&logoColor=white" /> 
 </span>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Limdongdang&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+    <img src="./profile-3d-contrib/profile-green-animate.svg" width="50%"/>
+</div>
 </div>
 
