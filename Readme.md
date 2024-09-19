@@ -17,7 +17,6 @@
 </span>
 
 <div>
-    <img src="./profile-3d-contrib/profile-green-animate.svg" width="50%"/>
 </div>
 </div>
 
