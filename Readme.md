@@ -4,7 +4,6 @@
 # Stacks
 <span>
     <img src= "https://img.shields.io/badge/JavaScript-F4D53E?style=flat-square&logo=JavaScript&logoColor=white"/>
-    <img src ="https://img.shields.io/badge/Next.js-blue?style=flat-square&logo=Next.js&logoColor=white" />
     <img src= "https://img.shields.io/badge/NodeJS-31B025?style=flat-square&logo=Node.js&logoColor=white"/>
     <img src ="https://img.shields.io/badge/Express-grey.svg?style=flat-square&logo=Express&logoColor=white"/> 
     <img src ="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white"/>
